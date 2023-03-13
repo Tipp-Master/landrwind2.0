@@ -31,7 +31,7 @@ public class Landrwind {
     public static final String MODID = "landrwind";
     private static final Logger LOGGER = LogUtils.getLogger();
 
-
+//test
     public Landrwind() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
