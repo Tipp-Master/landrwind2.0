@@ -12,6 +12,10 @@
     </facet>
   </component>
   <component name="McpModuleSettings">
-    <option name="srgType" value="SRG" />
+    <option name="mappingFile" value="C:\Users\Tipp Master\Documents\GitHub\landrwind2.0\build\createMcpToSrg\output.tsrg" />
+    <option name="mcpVersion" value="parchment_2023.03.12-1.19.3" />
+    <option name="minecraftVersion" value="1.19.3" />
+    <option name="platformVersion" value="44.1.0" />
+    <option name="srgType" value="TSRG" />
   </component>
 </module>
